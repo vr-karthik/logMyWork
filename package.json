@@ -1,0 +1,38 @@
+{
+  "name": "logmywork",
+  "version": "1.0.0",
+  "description": "MEAN stack based work management application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vr-karthik/logMyWork.git"
+  },
+  "keywords": [
+    "work",
+    "management",
+    "mean",
+    "work",
+    "management",
+    "mean",
+    "based",
+    "work",
+    "management",
+    "application"
+  ],
+  "author": "vr-karthikeyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vr-karthik/logMyWork/issues"
+  },
+  "homepage": "https://github.com/vr-karthik/logMyWork#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
